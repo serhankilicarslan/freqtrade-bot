@@ -1,4 +1,4 @@
-# Freqtrade Example
+# Freqtrade Docker Example
 
 Example of Freqtrade docker container that can use all strategies.
 
