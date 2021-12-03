@@ -12,7 +12,6 @@ Freqtrade is a free and open source crypto trading bot written in Python. It is 
 git clone https://github.com/serhankilicarslan/freqtrade-bot
 cd freqtrade-bot
 
-docker-compose pull
 docker-compose run --rm freqtrade create-userdir --userdir user_data
 docker-compose run --rm freqtrade new-config --config user_data/my-config.json
 ```
