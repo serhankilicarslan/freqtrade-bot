@@ -1,0 +1,10 @@
+# Freqtrade rules
+!user_data/notebooks
+user_data/notebooks/*
+!user_data/hyperopts
+user_data/hyperopts/*
+!user_data/data
+user_data/data/*
+!user_data/backtest_results
+user_data/backtest_results/*
+user_data/my-config.json
