@@ -1,0 +1,4 @@
+# FROM freqtradeorg/freqtrade:develop
+FROM freqtradeorg/freqtrade:stable
+USER ftuser
+RUN pip install --user ta
